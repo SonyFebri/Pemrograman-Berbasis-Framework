@@ -53,7 +53,7 @@
 ### Pertanyaan Praktikum 4
 
 1. Untuk apakah kegunaan sintaks user.imageUrl?
-   - user.imageUrl digunakan untuk mengakses properti imageUrl dari objek user. Properti ini berisi URL gambar ('https://i.imgur.com/yXOvdOSs.jpg'), yang kemudian digunakan sebagai nilai atribut src pada elemen <img>
+   - user.imageUrl digunakan untuk mengakses properti imageUrl dari objek user. Properti ini berisi URL gambar ('https://i.imgur.com/yXOvdOSs.jpg'), yang kemudian digunakan sebagai nilai atribut src pada elemen img
 2. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah
    berhasil Anda lakukan!
    ![Screenshot](image/05.png)
